@@ -2,6 +2,18 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## Running JSON Server as DB
+
+```sh
+json-server -w ./data/db.json
+```
+
+## Accessing Goal Endpoint 
+
+```sh
+http://localhost:3000/goals
+```
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
