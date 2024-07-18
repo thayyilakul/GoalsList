@@ -30,7 +30,7 @@ export default {
         const handleSubmit = () => {
             if(goal.value.length > 0 && typeOfGoal.value.length > 0){
                 goalStore.addGoal({
-                    id : Math.floor(Math.random() * 10000),
+                    id : String(Math.floor(Math.random() * 10000)),
                     text : goal.value,
                     status : false,
                     type : typeOfGoal.value

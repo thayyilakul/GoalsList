@@ -27,6 +27,7 @@ export default{
   components : {ListCard, StatsCard, AddGoal},
   setup(){
     const store = useGoalStore()
+    store.getGoals()
     return {store}
   }
 }
