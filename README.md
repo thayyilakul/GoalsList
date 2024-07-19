@@ -1,6 +1,6 @@
 # GoalsList
 
-[![Watch the video]](https://raw.githubusercontent.com/thayyilakul/GoalsList/main/Demo.mp4)
+![](https://raw.githubusercontent.com/thayyilakul/GoalsList/main/Demo.gif)
 
 ## Recommended IDE Setup
 
