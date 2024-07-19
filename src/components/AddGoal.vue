@@ -36,6 +36,7 @@ export default {
                     type : typeOfGoal.value
                 })
                 goal.value = ''
+                typeOfGoal.value = ''
             }
         }
         return {handleSubmit, goal, typeOfGoal};

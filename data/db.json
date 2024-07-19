@@ -27,13 +27,13 @@
     {
       "id": "5",
       "text": "Invest in cryptocurrency",
-      "status": true,
+      "status": false,
       "type": "medium"
     },
     {
       "id": "6",
       "text": "Contribute code or a monetary donation to an open-source software project",
-      "status": false,
+      "status": true,
       "type": "medium"
     },
     {
@@ -57,14 +57,14 @@
     {
       "id": "4063",
       "text": "Learn Pinia",
-      "status": true,
+      "status": false,
       "type": "medium"
     },
     {
-      "id": "5950",
-      "text": "Take a walk",
-      "status": true,
-      "type": "short"
+      "id": "8917",
+      "text": "Learn Vue",
+      "status": false,
+      "type": "medium"
     }
   ]
 }

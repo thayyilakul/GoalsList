@@ -1,6 +1,6 @@
 # GoalsList
 
-This template should help get you started developing with Vue 3 in Vite.
+[![Watch the video]](https://raw.githubusercontent.com/thayyilakul/GoalsList/main/Demo.mp4)
 
 ## Recommended IDE Setup
 
